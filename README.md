@@ -1,3 +1,3 @@
-### Hi there 👋
+# Hi there 👋
 
-# 🔭 I’m currently working on figurebest.
+### 🔭 I’m currently working on figurebest.
